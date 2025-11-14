@@ -24,3 +24,4 @@ C:\Users\andy\OneDrive\Documents\OpenGrade3D\OpenGrade3D\SourceCode\KeyPad\Keypa
 C:\Users\andy\OneDrive\Documents\OpenGrade3D\OpenGrade3D\SourceCode\KeyPad\Keypad\obj\Release\Keypad.csproj.GenerateResource.cache
 C:\Users\andy\OneDrive\Documents\OpenGrade3D\OpenGrade3D\SourceCode\KeyPad\Keypad\obj\Release\Keypad.csproj.CoreCompileInputs.cache
 C:\Users\andy\OneDrive\Documents\OpenGrade3D\OpenGrade3D\SourceCode\KeyPad\Keypad\obj\Release\Keypad.dll
+C:\Users\andy\OneDrive\Documents\OpenGrade3D\OpenGrade3D\SourceCode\KeyPad\Keypad\obj\Release\Keypad.csprojAssemblyReference.cache
